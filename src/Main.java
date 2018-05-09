@@ -7,6 +7,7 @@ public class Main {
         mike.singForMe();
 
         // This is a test comment. I'm practicing with Git!
+        // plus another comment
     }
 
 }
