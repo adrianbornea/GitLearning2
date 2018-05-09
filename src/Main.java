@@ -6,8 +6,7 @@ public class Main {
         mike.sayHello();
         mike.singForMe();
 
-        // This is a test comment. I'm practicing with Git!
-        // plus another comment
+        // This is a branch pushed ... comments edited
     }
 
 }
